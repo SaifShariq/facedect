@@ -1,4 +1,4 @@
-# FaceDect API
+# FaceDect AI
 An AI app that detects a face in an image 
 
 Collaborated with Clarifai API
