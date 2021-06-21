@@ -1,3 +1,10 @@
+# FaceDect API
+An AI app that detects a face in an image 
+
+Collaborated with Clarifai API
+
+Made using some awesome packages like tachyons, react-tilt, react-particles-js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
