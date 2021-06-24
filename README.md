@@ -1,6 +1,12 @@
 # FaceDect AI
 An AI app that detects a face in an image 
 
+# Prerequisites
+Add your Clarifai API key by adding it to your environment variables as 
+```
+export REACT_APP_API_KEY={YOUR_API_KEY}
+```
+
 Collaborated with Clarifai API
 
 Made using some awesome packages like tachyons, react-tilt, react-particles-js
